@@ -1,0 +1,39 @@
+ADAU145X Assembler, Analog Devices Inc.
+Version: 4.7.0,1827  (built 4/5/2022)
+
+##### Compile Started: Tuesday, September 20, 2022 5:09:04 PM #####
+ADAU145X Assembler, Analog Devices Inc.
+Version: 4.7.0,1827  (built 4/5/2022)
+
+##### Compile Started: Tuesday, September 20, 2022 5:09:04 PM #####
+##### Compile succeeded:  0 errors, 0 warnings #####
+
+##### Summary #####
+DM0 RAM used:       00156    (of 20480)
+DM1 RAM used:       00057    (of 20480)
+PM  RAM used(Data): 00000    (of 8192)
+PM  RAM used(Inst): 00325    (of 8192) 270 instructions (32bit: 215  64bit: 55)
+Total PM used:      00325    (of 8192)
+
+--------------------------------------------------------------------------------------
+STREAM                        Inst      Inst      DM0     DM1     PM
+Instance                      (cycles)  (size)    
+--------------------------------------------------------------------------------------
+STACK                          -         -        16      0       0       
+Router2                       57        76        32      16      0
+Router2_2                     57        76        32      16      0
+Compressor1                   53        57        61      2       0
+FRAMEWORK                     52        33        4       7       0
+S Splitter1                   15        18        4       4       0
+Makeup Gain                   7         7         1       2       0
+Input1                        4         4         0       2       0
+Input2                        4         4         0       2       0
+Switch3                       2         2         1       1       0
+Switch3_2                     2         2         1       1       0
+Right                         2         2         0       0       0
+Left                          2         2         0       0       0
+--------------------------------------------------------------------------------------
+Total                         257       283       152     53      0
+--------------------------------------------------------------------------------------
+(% Fs=44.1kHz)                4%        4%        1%      1%      0%
+

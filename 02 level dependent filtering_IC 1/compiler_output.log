@@ -1,0 +1,37 @@
+ADAU145X Assembler, Analog Devices Inc.
+Version: 4.7.0,1827  (built 4/5/2022)
+
+##### Compile Started: Tuesday, September 20, 2022 7:02:18 PM #####
+ADAU145X Assembler, Analog Devices Inc.
+Version: 4.7.0,1827  (built 4/5/2022)
+
+##### Compile Started: Tuesday, September 20, 2022 7:02:18 PM #####
+##### Compile succeeded:  0 errors, 0 warnings #####
+
+##### Summary #####
+DM0 RAM used:       00073    (of 20480)
+DM1 RAM used:       00045    (of 20480)
+PM  RAM used(Data): 00000    (of 8192)
+PM  RAM used(Inst): 00242    (of 8192) 197 instructions (32bit: 152  64bit: 45)
+Total PM used:      00242    (of 8192)
+
+--------------------------------------------------------------------------------------
+STREAM                        Inst      Inst      DM0     DM1     PM
+Instance                      (cycles)  (size)    
+--------------------------------------------------------------------------------------
+STACK                          -         -        16      0       0       
+Router2                       57        76        32      16      0
+Loudness L&H Ext1             39        55        11      10      0
+FRAMEWORK                     52        33        4       7       0
+PeakEnv1                      16        16        4       1       0
+S Splitter1                   6         6         1       2       0
+Input1                        4         4         0       2       0
+Input2                        4         4         0       2       0
+Switch3                       2         2         1       1       0
+Right                         2         2         0       0       0
+Left                          2         2         0       0       0
+--------------------------------------------------------------------------------------
+Total                         184       200       69      41      0
+--------------------------------------------------------------------------------------
+(% Fs=44.1kHz)                3%        3%        1%      1%      0%
+
